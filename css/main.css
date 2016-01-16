@@ -1,0 +1,135 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body > header > h1 {
+  background-color: #F6F908;
+  border-radius: 10px;
+  margin: 10px 5%;
+  padding: 10px 0%;
+  text-align: center;
+  width: 90%;
+}
+
+body > nav {
+  background-color: #F95708;
+  border-radius: 10px;
+  float: left;
+  height: 3920px;
+  margin-left: 5%;
+  margin-top: 10px;
+  padding-right: 15px;
+  padding-top: 10px;
+  width: 20%;
+}
+
+body > nav > ul > li > a:visited {
+  color: white;
+}
+
+body > nav > ul > li > a {
+  color: white;
+}
+
+
+body > main {
+  background-color: #DAF0BB;
+  border-radius: 10px;
+  margin-left: 26%;
+  margin-top: 20px;
+  padding: 10px 2%;
+  width: 69%;
+}
+
+body > main > article {
+  background-color: #BBF0EE;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+body > main > article > img {
+  display: block;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 75%;
+}
+
+body > main > article > header {
+  background-color: #EFC9F4;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 5px 0%;
+  text-align: center;
+}
+
+body > main > article > header > h2 {
+  background-color: #F6E1B9;
+  border-radius: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+body > main > article > header > time {
+  background-color: #B9F6DE;
+  border-radius: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+body > main > article > p {
+  padding: 0px 5%;
+}
+
+body > main > article > blockquote {
+  padding: 0px 5%;
+}
+
+body > main > article > footer {
+  background-color: #EDCE53;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+}
+
+body > main > article > article {
+  background-color: #AFF09B;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+body > main > article > article > time {
+  background-color: #F6B5F8;
+  display: block;
+  text-align: center;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+body > main > article > article > p {
+  padding: 10px 5%;
+}
+
+body > main > article > input {
+  width: 75%;
+  margin-left: 5%;
+}
+
+body > footer {
+  background-color: #EFBBF0;
+  border-radius: 10px;
+  margin: 2% 5%;
+  padding: 10px 0%;
+  text-align: center;
+  width: 90%;
+}
